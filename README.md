@@ -3,4 +3,4 @@ when a error comes while having a error this thing will change a 10 line error t
 
 add this to the first line of any discord bot 
 
-this will send the error on the same place where u used the command + on console, it will also make the code easier to read.
+this will send the error on the same place where u used the command (will delete after 30 seconds) + on console, it will also make the code easier to read.
